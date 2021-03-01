@@ -1,0 +1,16 @@
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\bin\Debug\net5.0\KasperskyTestTask.exe
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\bin\Debug\net5.0\KasperskyTestTask.deps.json
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\bin\Debug\net5.0\KasperskyTestTask.runtimeconfig.json
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\bin\Debug\net5.0\KasperskyTestTask.runtimeconfig.dev.json
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\bin\Debug\net5.0\KasperskyTestTask.dll
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\bin\Debug\net5.0\ref\KasperskyTestTask.dll
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\bin\Debug\net5.0\KasperskyTestTask.pdb
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\obj\Debug\net5.0\KasperskyTestTask.csprojAssemblyReference.cache
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\obj\Debug\net5.0\KasperskyTestTask.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\obj\Debug\net5.0\KasperskyTestTask.AssemblyInfoInputs.cache
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\obj\Debug\net5.0\KasperskyTestTask.AssemblyInfo.cs
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\obj\Debug\net5.0\KasperskyTestTask.csproj.CoreCompileInputs.cache
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\obj\Debug\net5.0\KasperskyTestTask.dll
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\obj\Debug\net5.0\ref\KasperskyTestTask.dll
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\obj\Debug\net5.0\KasperskyTestTask.pdb
+c:\Users\joker\OneDrive\Документы\Проекты\C#\KasperskyTestTask\KasperskyTestTask\obj\Debug\net5.0\KasperskyTestTask.genruntimeconfig.cache
